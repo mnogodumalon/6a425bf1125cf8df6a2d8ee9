@@ -1,0 +1,20 @@
+{
+  "RestaurantsDialog.tsx": {
+    "name": "z. B. Trattoria Luigi",
+    "beschreibung": "Spezialitäten, Besonderheiten, Bemerkungen...",
+    "strasse": "z. B. Hauptstraße",
+    "hausnummer": "z. B. 42",
+    "plz": "z. B. 10115",
+    "stadt": "z. B. Berlin",
+    "website": "z. B. www.trattoria-luigi.de",
+    "oeffnungszeiten_mo": "z. B. 11:00-23:00",
+    "oeffnungszeiten_di": "z. B. 11:00-23:00",
+    "oeffnungszeiten_mi": "z. B. 11:00-23:00",
+    "oeffnungszeiten_do": "z. B. 11:00-23:00",
+    "oeffnungszeiten_fr": "z. B. 11:00-23:00",
+    "oeffnungszeiten_sa": "z. B. 12:00-00:00",
+    "oeffnungszeiten_so": "z. B. 12:00-23:00",
+    "kuechenstil": "Wähle einen Küchenstil",
+    "ernaehrungsfilter": "z. B. Vegan, Vegetarisch"
+  }
+}

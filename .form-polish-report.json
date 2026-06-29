@@ -1,0 +1,10 @@
+{
+  "entities": {
+    "Restaurants": {
+      "placeholders_set": 16,
+      "defaults_keys": [],
+      "computed_keys": [],
+      "reason": "Reine Stammdaten (Name, Adresse, Öffnungszeiten, Küchenstil). Keine Preisfelder, keine Datumspaare, keine applookup-Ketten. Nichts berechenbar."
+    }
+  }
+}

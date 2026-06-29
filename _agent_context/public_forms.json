@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "forms": [
+    {
+      "entity": "restaurants",
+      "app_id": "6a425bdddfb17b839e346e0f",
+      "path": "/rest/apps/6a425bdddfb17b839e346e0f/records",
+      "allowed_fields": [
+        "name",
+        "beschreibung",
+        "strasse",
+        "hausnummer",
+        "plz",
+        "stadt",
+        "standort",
+        "telefon",
+        "website",
+        "oeffnungszeiten_mo",
+        "oeffnungszeiten_di",
+        "oeffnungszeiten_mi",
+        "oeffnungszeiten_do",
+        "oeffnungszeiten_fr",
+        "oeffnungszeiten_sa",
+        "oeffnungszeiten_so",
+        "kuechenstil",
+        "ernaehrungsfilter"
+      ],
+      "pow": true,
+      "pow_difficulty": 50000,
+      "title": "Restaurants — Formular"
+    }
+  ]
+}
